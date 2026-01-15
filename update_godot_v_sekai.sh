@@ -40,7 +40,6 @@ add_remote ()
 
 #
 add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
-add_remote TokageItLab https://github.com/TokageItLab/godot.git
 add_remote PizzaLovers007 https://github.com/PizzaLovers007/godot.git
 #
 
