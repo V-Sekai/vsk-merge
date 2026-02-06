@@ -18,3 +18,4 @@ merge groups-staging-4.6 remotes/PizzaLovers007/play-scheduled
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-usd-4.6
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-joint-limitation-kusudama-4.6
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-nodepath-hash-4.6
+merge groups-staging-4.6 remotes/v-sekai-godot/vsk-expose-call-gui-input-for-vr-4.6
